@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","711","Successful login redirects to inventory","chromium","Wed Sep 10 05:42:39 UTC 2025","passed","Wed Sep 10 05:42:39 UTC 2025","","spec/login.spec.js","",""
