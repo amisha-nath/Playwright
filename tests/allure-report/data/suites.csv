@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3223","Complete checkout flow and verify totals","","Tue Sep 09 15:19:50 IST 2025","passed","Tue Sep 09 15:19:53 IST 2025","","spec\checkout.spec.js","",""
+"","2211","Sort products by price low to high","","Tue Sep 09 15:19:54 IST 2025","passed","Tue Sep 09 15:19:56 IST 2025","","spec\sort.spec.js","",""
+"","1830","Site accessible & login form visible","","Tue Sep 09 15:19:53 IST 2025","passed","Tue Sep 09 15:19:55 IST 2025","","spec\smoke_test.spec.js","",""
+"","2080","Successful login redirects to inventory","","Tue Sep 09 15:19:53 IST 2025","passed","Tue Sep 09 15:19:55 IST 2025","","spec\login.spec.js","",""
+"","3210","Add two items and validate cart contents","","Tue Sep 09 15:19:50 IST 2025","passed","Tue Sep 09 15:19:53 IST 2025","","spec\cart.spec.js","",""
+"","2873","Locator strategy mastery","","Tue Sep 09 15:19:50 IST 2025","passed","Tue Sep 09 15:19:53 IST 2025","","spec\locators.spec.js","",""
+"","3517","POM checkout flow","","Tue Sep 09 15:19:50 IST 2025","passed","Tue Sep 09 15:19:53 IST 2025","","spec\checkout.pom.spec.js","",""
